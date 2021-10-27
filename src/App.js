@@ -28,6 +28,7 @@ class App extends React.Component {
         comapny:'',
         }
     }
+    
    
     openModal(id){
         console.log(id); 
