@@ -13,6 +13,7 @@ const customStyles = {
     width: '400px',
   },
 };
+
 class App extends React.Component {
     constructor(props) {
         super(props);   
@@ -28,7 +29,7 @@ class App extends React.Component {
         comapny:'',
         }
     }
-    
+
    
     openModal(id){
         console.log(id); 
